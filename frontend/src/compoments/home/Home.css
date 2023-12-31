@@ -1,0 +1,19 @@
+.home{
+    width: 100%;
+    height: 100vh;
+}
+
+.home h1{
+    font-size: 60px;
+    text-align: center;
+}
+.home-btn{
+    border:none;
+    outline: none;
+    color:aquamarine;
+    border-radius: 5px;
+    background-color: black;
+    font-weight: bold;
+    padding: 7px;
+
+}
